@@ -1,0 +1,6 @@
+#---VSCODE---#
+.vscode/
+
+#---Compilation and Building Outputs---#
+*.exe
+*.o
