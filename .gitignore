@@ -4,3 +4,7 @@
 #---Compilation and Building Outputs---#
 *.exe
 *.o
+
+#---Markdown Lint---#
+.markdownlint.json
+.markdownlint.jsonc
