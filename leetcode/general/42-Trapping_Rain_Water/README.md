@@ -6,7 +6,7 @@
 
 ## Path to solution
 
-This problem is one of the first HARD problems I've seen, so it gave me quite of an headache.
+This problem is one of the first HARD problems I've done on LeetCode, so it gave me quite of an headache.
 My first solution wasn't bad but not the best, and I had to document myself to understand the best solution and implement it.
 Still the intuition is the same so I'm happy with my achievement, I will explain both.
 
