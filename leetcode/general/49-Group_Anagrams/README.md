@@ -31,6 +31,14 @@ If we consider only m -> O(m)
 
 ## Observations
 
-This problem can be optimized further and, even if the solution works, I need something better.
+This problem can be further optimized and, even if the solution works, could be better.
 Using primes is an idea but a multiplication of 100 primes could be really big.
-If the primes idea works the complexity could reduce to O(m*n)
+If the primes idea works the complexity could reduce to O(m*n).
+Also, even if it is an optimization, the prime method could not be available in a competitive setting.
+
+Another solution something like a bitmap:
+
+- For each input construct an array[26] and use it for counting each letter
+- Convert it into a string and use that as key of the hashmap
+
+Technically the complexity should be O(n*m), so should be better
