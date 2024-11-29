@@ -8,3 +8,6 @@
 #---Markdown Lint---#
 .markdownlint.json
 .markdownlint.jsonc
+
+#---Directory For Testing---#
+test/
