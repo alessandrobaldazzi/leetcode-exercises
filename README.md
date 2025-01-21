@@ -4,3 +4,5 @@ This repo is used as a collection for my solutions to programming exercises foun
 
 The language of my choice is C++, but the reasonings should transfer to whatever language you're using.
 For SQL exercises I use MySQL.
+
+I'm using C++ 23, with level two optimization (-O2)
